@@ -1,0 +1,7 @@
+header {
+  background-color: blue;
+  size: 10px;
+}
+header .nav-link {
+  color: red;
+}
